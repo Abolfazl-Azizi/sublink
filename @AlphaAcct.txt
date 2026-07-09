@@ -167,9 +167,8 @@ vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&en
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3FASHI&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@vpnproxylinks
 vless://5a0028f9-c656-cec9-4b61-54678477a408@104.16.1.191:2087?encryption=none&security=tls&sni=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&path=%2Fgame#@vpnproxylinks
 vless://5a0028f9-c656-cec9-4b61-54678477a408@104.16.4.25:2087?encryption=none&security=tls&sni=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&path=%2Fgame#@vpnproxylinks
-✨ پست جدید پروکسی ✨
-
-🌐 کانفیگ‌های اختصاصی Xray (کپی با ضربه):
+vless://8da1bce0-94ab-4745-bfd0-a54700000000@162.159.160.0:443?encryption=none&security=tls&sni=winter-b0ush-f0075aaa.emaddoustii.workers.dev&alpn&fp=chrome&type=ws&host=winter-b0ush-f0075aaa.emaddoustii.workers.dev&path=/sync&packetEncoding=xudp#VLESS%20%20EmadT3ch
+لهستان
 🔮 1. vless://5a0028f9-c656-cec9-4b61-54678477a408@104.16.4.195:2087?encryption=none&security=tls&sni=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&path=%2Fgame#@vpnproxylinks
 
 🔮 2. vless://5a0028f9-c656-cec9-4b61-54678477a408@104.16.4.182:2087?encryption=none&security=tls&sni=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&path=%2Fgame#@vpnproxylinks
