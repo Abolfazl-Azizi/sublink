@@ -1,6 +1,6 @@
 #profile-title: base64:QWxwaGFUZWNo
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=100000000000; total=902400000000; expire=24000076500
+#subscription-userinfo: upload=0; download=0; total=99999999999999; expire=24000076500
 #support-url: https://t.me/alphaacct
 #profile-web-page-url: https://t.me/alphaacct
 
