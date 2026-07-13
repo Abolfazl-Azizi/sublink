@@ -1,4 +1,4 @@
-#profile-title: base64:4pyoIEFscGhhVGVjaCB8INii2YTZgdin2Kaq2Ykg8J+Shieldg==
+#profile-title: base64:QWxwaGFUZWNoIHwg2KLYp9mE2YHYqtin2as=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0
 #support-url: https://t.me/alphaacct
